@@ -80,3 +80,7 @@ select {
     scroll-behavior: auto !important;
   }
 }
+
+p {
+  color: yellow;
+}
